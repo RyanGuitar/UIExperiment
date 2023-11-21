@@ -11,3 +11,9 @@ main {
     height:100svh;
     background: green;
 }
+
+#slider {
+    width:100svw;
+    height:200svh;
+    background: blue;
+}
