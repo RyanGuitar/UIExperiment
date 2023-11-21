@@ -9,11 +9,21 @@ body {
 main {
     width:100svw;
     height:100svh;
-    background: green;
 }
 
 #slider {
     width:100svw;
     height:200svh;
+}
+
+#sliderTop {
+    width:100svw;
+    height:100svh;
+    background: green;
+}
+
+#sliderBottom {
+    width: 100svw;
+    height:100svh;
     background: blue;
 }
